@@ -30,6 +30,10 @@ Here are some ideas to get you started:
 
 # Projects (public repos / training/fun):
 
+- Prjct-Microservices-Dotnet https://github.com/AgostonAttila/Prjct-Microservices-Dotnet
+- Prjct-NetCore-Microservice-Sample https://github.com/AgostonAttila/Prjct-NetCore-Microservice-Sample
+- Prjct-NetCore-GraphQL-Sample https://github.com/AgostonAttila/Prjct-NetCore-GraphQL-Sample
+- Prjct-NetCoreBoilerplate https://github.com/AgostonAttila/Prjct-NetCoreBoilerplate
 - Prjct-AdminDashboard-NetCore-Blazor https://github.com/AgostonAttila/Prjct-AdminDashboard-NetCore-Blazor
 - Prjct-Portfolio-NetCore-Angular-Original https://github.com/AgostonAttila/Prjct-Portfolio-NetCore-Angular-Original
 - Prjct-Portfolio-NetCore-Angular-Nebular https://github.com/AgostonAttila/Prjct-Portfolio-NetCore-Angular-Nebular
@@ -39,20 +43,14 @@ Here are some ideas to get you started:
 - Prjct-Portfolio-NetCore-Angular-CleanArchitecture https://github.com/AgostonAttila/Prjct-Portfolio-NetCore-Angular-CleanArchitecture
 - Prjct-AdminDashboard-BestREact https://github.com/AgostonAttila/Prjct-AdminDashboard-BestREact
 - Prjct-AdminDashboard-React-tr https://github.com/AgostonAttila/Prjct-AdminDashboard-React-tr
+- Prjct-RealtimeChat-React https://github.com/AgostonAttila/Prjct-RealtimeChat-React
+- Prjct-reactivities-app https://github.com/AgostonAttila/Prjct-reactivities-app
 - Prjct-Design-Tutorials https://github.com/AgostonAttila/Prjct-Design-Tutorials
 - Prjct-CSS-Tutorials https://github.com/AgostonAttila/Prjct-CSS-Tutorials
-- Prjct-RealtimeChat-React https://github.com/AgostonAttila/Prjct-RealtimeChat-React
-- Prjct-Microservices-Dotnet https://github.com/AgostonAttila/Prjct-Microservices-Dotnet
-- Prjct-NetCore-Microservice-Sample https://github.com/AgostonAttila/Prjct-NetCore-Microservice-Sample
-- Prjct-NetCoreBoilerplate https://github.com/AgostonAttila/Prjct-NetCoreBoilerplate
 - Prjct-ReactNative-Tutorials https://github.com/AgostonAttila/Prjct-ReactNative-Tutorials
 - Prjct-Artificial-Intelligence-samples https://github.com/AgostonAttila/Prjct-Artificial-Intelligence-samples
-- Prjct-reactivities-app https://github.com/AgostonAttila/Prjct-reactivities-app
-- Prjct-NetCore-GraphQL-Sample https://github.com/AgostonAttila/Prjct-NetCore-GraphQL-Sample
 - Prjct-Courses-Vue3 https://github.com/AgostonAttila/Prjct-Courses-Vue3
 - Prjct-Netflix-Clone-Flutter https://github.com/AgostonAttila/Prjct-Netflix-Clone-Flutter
-
-
 
 # Courses (127)
 
