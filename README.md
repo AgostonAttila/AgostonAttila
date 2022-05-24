@@ -28,11 +28,10 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p> -->
 
-
 <h1>Repos:</h1>
 
-<h2>Projects:</h2>
-<br>
+# Projects:
+
 - Prjct-AdminDashboard-NetCore-Blazor https://github.com/AgostonAttila/Prjct-AdminDashboard-NetCore-Blazor
 - Prjct-Portfolio-NetCore-Angular-Original https://github.com/AgostonAttila/Prjct-Portfolio-NetCore-Angular-Original
 - Prjct-Portfolio-NetCore-Angular-Nebular https://github.com/AgostonAttila/Prjct-Portfolio-NetCore-Angular-Nebular
@@ -55,9 +54,7 @@ Here are some ideas to get you started:
 - Prjct-Courses-Vue3 https://github.com/AgostonAttila/Prjct-Courses-Vue3
 - Prjct-Netflix-Clone-Flutter https://github.com/AgostonAttila/Prjct-Netflix-Clone-Flutter
 
-<br>
-<h2>Courses:</h2>
-<br>
+
 
 # Courses (118)
 
@@ -120,7 +117,7 @@ Web:
 - HTML 5 tanfolyam
 - HTML5 programozás
 
-## UDEMY (66):
+## UDEMY (69):
 
 Mosh Hamedani:
 
@@ -153,6 +150,7 @@ Maximilian Schwarzmüller:
 - Nuxt.js - Vue.js on Steroids
 - 100 Days Of Code: The Complete Web Development Bootcamp 2022
 - Microsoft Power BI - The Practical Guide
+- JavaScript Unit Testing - The Practical Guide
 
 Colt Steele:
 
@@ -200,6 +198,8 @@ Ben Tristem / Game.dev:
 - Complete C# Unity Developer 2D: Learn to Code Making Games
 - Complete C# Unity Developer 3D: Learn to Code Making Games
 - Unity Multiplayer: Intermediate C# Coding & Networking
+- Unity 3rd Person Combat & Traversal
+- Unity C# Mobile Game Development - Make 3 Games From Scratch
 
 Jonas Schmedtmann:
 
