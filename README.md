@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 - Prjct-CSS-Tutorials https://github.com/AgostonAttila/Prjct-CSS-Tutorials
 - Prjct-ReactNative-Tutorials https://github.com/AgostonAttila/Prjct-ReactNative-Tutorials
 - Prjct-Artificial-Intelligence-samples https://github.com/AgostonAttila/Prjct-Artificial-Intelligence-samples
-- Prjct-Courses-Vue3 https://github.com/AgostonAttila/Prjct-Courses-Vue3
+
 - Prjct-Netflix-Clone-Flutter https://github.com/AgostonAttila/Prjct-Netflix-Clone-Flutter
 
 # Courses (127)
