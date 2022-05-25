@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 - Prjct-Netflix-Clone-Flutter https://github.com/AgostonAttila/Prjct-Netflix-Clone-Flutter
 
-# Courses (127)
+# Courses (128)
 
 ## Netacademia (39)
 
@@ -113,7 +113,7 @@ Web:
 - HTML 5 tanfolyam
 - HTML5 programozás
 
-## UDEMY (74):
+## UDEMY (75):
 
 Mosh Hamedani:
 
@@ -170,6 +170,7 @@ Jose Portilla:
 - Complete Tensorflow 2 and Keras Deep Learning Bootcamp
 - Python for Data Science and Machine Learning Bootcamp
 - Spark and Python for Big Data with PySpark
+- Python for Finance and Algorithmic Trading with QuantConnect
 
 Brad Traversy:
 
