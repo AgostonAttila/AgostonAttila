@@ -176,6 +176,7 @@ Brad Traversy:
 
 - Modern HTML & CSS From The Beginning (Including Sass)
 - 20 Web Projects With Vanilla JavaScript
+- Tailwind CSS From Scratch | Learn By Building Projects
 
 Kirill Eremenko:
 
