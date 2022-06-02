@@ -232,6 +232,7 @@ Other:
 - Ethereum and Solidity: The Complete Developer's Guide
 - The Complete Android Oreo Developer Course - Build 23 Apps!
 - Make an E-Commerce Website with Blazor WebAssembly in .NET 6
+- Complete React Developer in 2022 (w/ Redux, Hooks, GraphQL)
 
 ## Pluralsight (14):
 
