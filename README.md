@@ -113,7 +113,7 @@ Web:
 - HTML 5 tanfolyam
 - HTML5 programozás
 
-## UDEMY (75):
+## UDEMY (76):
 
 Mosh Hamedani:
 
@@ -198,6 +198,7 @@ Ben Tristem / Game.dev:
 - Unity Multiplayer: Intermediate C# Coding & Networking
 - Unity 3rd Person Combat & Traversal
 - Unity C# Mobile Game Development - Make 3 Games From Scratch
+- Unity Turn-Based Strategy Game - Intermediate C# Coding
 
 Jonas Schmedtmann:
 
