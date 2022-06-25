@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 - Prjct-Netflix-Clone-Flutter https://github.com/AgostonAttila/Prjct-Netflix-Clone-Flutter
 
-# Courses (128)
+
 
 ## Netacademia (39)
 
@@ -113,7 +113,7 @@ Web:
 - HTML 5 tanfolyam
 - HTML5 programozás
 
-## UDEMY (76):
+## UDEMY (79):
 
 Mosh Hamedani:
 
