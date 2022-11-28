@@ -218,6 +218,12 @@ Bhurgen Patal:
 - .NET Core Microservices - The Complete Guide (.NET 6 MVC)
 - Complete guide to ASP.NET Core MVC (.NET 6)
 
+Andrei Neagoie:
+
+- Business Data Analytics & Intelligence with Python 2023
+- Complete Ethical Hacking Bootcamp 2023: Zero to Mastery
+- Web Security & Bug Bounty: Learn Penetration Testing in 2023
+
 Other:
 
 - High Performance Coding with .NET Core and C#
