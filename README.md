@@ -1,14 +1,4 @@
 
-<!--[![Github](https://img.shields.io/github/followers/AgostonAttila?label=Follow&style=social)](https://github.com/AgostonAttila)
-![](https://visitor-badge.laobi.icu/badge?page_id=AgostonAttila.AgostonAttila)
-
-
-**AgostonAttila/AgostonAttila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-
-
 #  Hi there 👋 
 I'm currently working on a business application with .NET
 
