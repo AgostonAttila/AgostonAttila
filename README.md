@@ -1,9 +1,9 @@
 
 #  Hi there 👋 
-I'm currently working on a business application with .NET
-Working as a .NET developer (apis,services,addins,desktop apps etc) (10+ years)
-Always learning some new techs
-Here you will find mainly my experimental and hobby projects and teaching materials
+- I'm currently working on a business application with .NET
+- Working as a .NET developer (apis,services,addins,desktop apps etc) (10+ years)
+- Always learning some new techs
+- Here you will find mainly my experimental and hobby projects and teaching materials
 
 
 # 💻 Tech Stack:
