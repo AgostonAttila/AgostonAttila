@@ -4,6 +4,7 @@
 - Working as a .NET developer (apis,services,addins,desktop apps etc) (10+ years)
 - Always learning some new techs
 - Here you will find mainly my experimental and hobby projects and teaching materials
+- Architectural and skeleton projects more serious dotnet projects are in private repo
 
 
 # 💻 Tech Stack:
